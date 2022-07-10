@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+a {text-decoration: none}
+
+li {
+    list-style-type: none;
+}
+
+.table {
+    margin: 0 auto;
+    width: 1380px;
+    height: 900px;
+    padding: 10px;
+    background-color: #35654d;
+    border: 3px solid #000;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.deck {
+    margin: 0 auto;
+    width: 900px;
+    height: 700px;
+    padding-top: 30px;
+    background-color:bisque;
+    border: 3px solid #000;
+    border-radius: 10px 10px 10px 10px;
+}
